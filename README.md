@@ -13,7 +13,6 @@
 💡 Currently working on projects using **Power BI, SQL, Pandas, Scikit-learn, and Matplotlib**  
 🛠️ Love turning messy data into meaningful insights  
 🌱 Learning advanced **Power BI DAX**, **Excel Dashboards**, and **Cloud tools (Azure & AWS)**  
-🎯 Goal: Land a Data Analyst role at top tech firms like **Google, Amazon, Microsoft**
 
 ---
 
